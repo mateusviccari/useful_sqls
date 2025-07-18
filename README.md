@@ -1,0 +1,2 @@
+# useful_sqls
+UsefulSqls
