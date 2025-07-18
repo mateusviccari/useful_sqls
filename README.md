@@ -1,2 +1,2 @@
-# useful_sqls
-UsefulSqls
+# Useful SQLs
+Useful SQLs for everyday needs
